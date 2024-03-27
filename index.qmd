@@ -1,14 +1,54 @@
 ---
-title: "kouamojulesquentin.github.io"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "Jules Quentin KOUAMO"
+image: "kjq.jpg"
+about:
+  template: trestles
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/jules-quentin-kouamo-99259921a/"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/kouamojulesquentin"
+    - text: X
+      icon: twitter
+      url: "https://twitter.com/kouamojules"
+  
+comments: false
 ---
 
+::: {.column-page}
+## Bio
 
+I’m a PhD Student in [TIMA lab](https://tima.univ-grenoble-alpes.fr/research/amfors/phd-students/jules-quentin-kouamo), working on Architectures and Software Methods for Mixed System Testing.
+
+<p></p>
+
+## Experience
+
+### Since November 2023:  *Phd Student* 
+[Grenoble Inp](https://www.grenoble-inp.fr/) - [TIMA](https://tima.univ-grenoble-alpes.fr/)
+<p>The thesis focuses on the integration of digital and analog testing methodologies for mixed-signal systems, which are becoming increasingly common in modern circuits. Currently, the testing methods for digital and analog components are separate and distinct, despite their close link in operation. The goal of the thesis is to develop a unified approach that bridges the technological and methodological gap between the digital and analog domains, allowing for the development of hybrid software and hardware solutions optimized for designers' needs.</p>
+[Supervisors:]{.underline} [Emmanuel SIMEU](https://tima.univ-grenoble-alpes.fr/research/rms/members/emmanuel-simeu) - [Michele PORTOLAN](https://tima.univ-grenoble-alpes.fr/research/amfors/members/michele-portolan)
+
+
+### 2022 - 2023:    *Assistant Datascience trainer* 
+[CASYTI](https://www.caysti.com/) - [CUSO](https://cusointernational.org/fr/)
+<p> The aim of the program [Techwomen Factory](https://techwomenfactory.caysti.com/) is to create a local digital industry that trains, empowers and employs young people and young women in particular in the areas of digital creativity for sustained, sustainable economic growth and decent jobs for all (SDG8, SDG5, SDG4 and SDG10).In the DataScience section, I taught the basics of data analysis, R programming and data analysis with R. </p>
+
+
+### 2022:   Consultant
+ [EARTHWORM FUNDATION CAMEROON](https://www.earthworm.org/fr/pages/locations)
+
+ <p> we worked on collecting and analysing data from the [SOSUCAM](https://www.linkedin.com/company/sosucam/?originalSubdomain=fr) company. The aim of the study was to monitor the corporate social responsibility (CSR) introduced at SOSUCAM in 2016.</p> 
+
+## Education
+
+### 2023 : Graduated from Université de Yaoundé I - Cameroon
+
+## Certificates 
+[**Tessent IJTAG - v22.16**](https://www.credly.com/badges/572599cd-30e1-47b5-8d56-8180d7137f19/linked_in_profile)
+
+[**Certified Lean Six Sigma Yellow Belt**](LEAN_SIX_SIGMA.pdf)
+
+:::
