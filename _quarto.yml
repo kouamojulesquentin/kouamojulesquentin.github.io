@@ -8,7 +8,7 @@ project:
 website:
   site-url: kouamojulesquentin.github.io
   description: Mixed IC Testing - Software Engeneering -  IA
-  title: "Jules Quentin KOUAMO"
+  title: "kjq 🎯"
   open-graph: 
     locale: en_US
 
@@ -17,13 +17,7 @@ website:
       - text: "Home"
         href: index.html
       - text: "Projects"
-        href: projects
-      - text: "Presentations"
-        href: presentations
-      - text: "Teaching"
-        href: teaching.html
-page-footer:
-    left: "© Copyright 2024 Jules Quentin KOUAMO. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."     
+        href: projects   
 format:
   html:
     theme: [darkly, _variables.scss]
