@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Jules Quentin KOUAMO",
     "section": "",
-    "text": "I’m a PhD Student in TIMA lab, working on Architectures and Software Methods for Mixed System Testing.\n\n\n\n\n\n\n\nGrenoble Inp - TIMA\n\nThe thesis focuses on the integration of digital and analog testing methodologies for mixed-signal systems, which are becoming increasingly common in modern circuits. Currently, the testing methods for digital and analog components are separate and distinct, despite their close link in operation. The goal of the thesis is to develop a unified approach that bridges the technological and methodological gap between the digital and analog domains, allowing for the development of hybrid software and hardware solutions optimized for designers’ needs.\n\nSupervisors: Emmanuel SIMEU - Michele PORTOLAN\n\n\n\nCASYTI - CUSO\n\nThe aim of the program Techwomen Factory is to create a local digital industry that trains, empowers and employs young people and young women in particular in the areas of digital creativity for sustained, sustainable economic growth and decent jobs for all (SDG8, SDG5, SDG4 and SDG10).In the DataScience section, I taught the basics of data analysis, R programming and data analysis with R.\n\n\n\n\nEARTHWORM FUNDATION CAMEROON\n\nwe worked on collecting and analysing data from the SOSUCAM company. The aim of the study was to monitor the corporate social responsibility (CSR) introduced at SOSUCAM in 2016.\n\n\n\n\n\n\n\n\n\n\n\nTessent IJTAG - v22.16\nCertified Lean Six Sigma Yellow Belt"
+    "text": "I’m a PhD Student in TIMA lab, working on Architectures and Software Methods for Mixed System Testing.\n\n\n\n\n\n\n\nGrenoble Inp - TIMA\n\nThe thesis focuses on the integration of digital and analog testing methodologies for mixed-signal systems, which are becoming increasingly common in modern circuits. Currently, the testing methods for digital and analog components are separate and distinct, despite their close link in operation. The goal of the thesis is to develop a unified approach that bridges the technological and methodological gap between the digital and analog domains, allowing for the development of hybrid software and hardware solutions optimized for designers’ needs.\n\nSupervisors: Emmanuel SIMEU - Michele PORTOLAN\n\n\n\nCASYTI - CUSO\n\nThe aim of the program Techwomen Factory is to create a local digital industry that trains, empowers and employs young people and young women in particular in the areas of digital creativity for sustained, sustainable economic growth and decent jobs for all (SDG8, SDG5, SDG4 and SDG10).In the DataScience section, I taught the basics of data analysis, R programming and data analysis with R.\n\n\n\n\nEARTHWORM FUNDATION CAMEROON\n\nwe worked on collecting and analysing data from the SOSUCAM company. The aim of the study was to monitor the corporate social responsibility (CSR) introduced at SOSUCAM in 2016.\n\n\n\n\n\n\n\n\n\n\n\nTessent IJTAG - v22.16\nCertified Lean Six Sigma Yellow Belt\nEnvironmental assessment of development policies and projects\nSemantic web - Web of data"
   },
   {
     "objectID": "index.html#bio",
@@ -25,7 +25,14 @@
     "href": "index.html#certificates",
     "title": "Jules Quentin KOUAMO",
     "section": "",
-    "text": "Tessent IJTAG - v22.16\nCertified Lean Six Sigma Yellow Belt"
+    "text": "Tessent IJTAG - v22.16\nCertified Lean Six Sigma Yellow Belt\nEnvironmental assessment of development policies and projects\nSemantic web - Web of data"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -35,10 +42,10 @@
     "text": "This is a post with executable code."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Jules Quentin KOUAMO",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Projects\n\n\n\n\napcoKG\n\n\nAPCO (African Public Contract Ontology) is an ontology that allows the description of public procurement terms, with a first use case in Cameroon.\n\n\n\nStarted on July 2022 V 1.O\n\nGo to project →"
   }
 ]

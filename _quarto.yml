@@ -2,6 +2,7 @@ project:
   type: website
   resources:
     - LEAN_SIX_SIGMA.pdf
+    - attestation_web_de_donnee.pdf
   output-dir: docs
 
 website:
@@ -16,7 +17,7 @@ website:
       - text: "Home"
         href: index.html
       - text: "Projects"
-        href: papers
+        href: projects
       - text: "Presentations"
         href: presentations
       - text: "Teaching"

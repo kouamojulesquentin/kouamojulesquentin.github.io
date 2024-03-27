@@ -1,0 +1,14 @@
+<html>
+<head><title>Projects</title>
+
+</head>
+<body>
+    <h2 style = "color: cyan;">apcoKG</h2>
+     <p>APCO (African Public Contract Ontology) is an ontology that allows the description of public procurement terms, with a first use case in Cameroon.</p>
+    <hr/>
+     <p>Started on <b>July 2022</b>  V 1.O</p>
+    <a href="https://github.com/AI4Africa/apcoKG">Go to project →</a>
+
+  
+</body>
+</html>
