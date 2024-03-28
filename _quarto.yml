@@ -20,7 +20,7 @@ website:
         href: projects   
 format:
   html:
-    theme: [darkly, _variables.scss]
+    theme: [sandstone, _variables.scss]
     css: styles.css
 
 

@@ -21,7 +21,7 @@ comments: false
 ## Bio
 
 I’m a PhD Student in [TIMA lab](https://tima.univ-grenoble-alpes.fr/research/amfors/phd-students/jules-quentin-kouamo), working on Architectures and Software Methods for Mixed System Testing.
-
+<hr/>
 <p></p>
 
 ## Experience
@@ -41,11 +41,11 @@ I’m a PhD Student in [TIMA lab](https://tima.univ-grenoble-alpes.fr/research/a
  [EARTHWORM FUNDATION CAMEROON](https://www.earthworm.org/fr/pages/locations)
 
  <p> we worked on collecting and analysing data from the [SOSUCAM](https://www.linkedin.com/company/sosucam/?originalSubdomain=fr) company. The aim of the study was to monitor the corporate social responsibility (CSR) introduced at SOSUCAM in 2016.</p> 
-
+<hr/>
 ## Education
 
-### 2023 : Graduated from Université de Yaoundé I - Cameroon
-
+ __2023__ : Graduated from Université de Yaoundé I - Cameroon
+<hr/>
 ## Certificates 
 [**Tessent IJTAG - v22.16**](https://www.credly.com/badges/572599cd-30e1-47b5-8d56-8180d7137f19/linked_in_profile)
 
