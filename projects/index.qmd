@@ -2,11 +2,13 @@
 <head><title>Projects</title>
 </head>
 <body>
-    <h1 style = "color: cyan;">apcoKG</h1>
+    <h1 style = "color: rgb(54, 69, 79);">apcoKG</h1>
      <p>APCO (African Public Contract Ontology) is an ontology that allows the description of public procurement terms, with a first use case in Cameroon.</p>
     <hr/>
      <p>Started on <b>July 2022</b>  *V1.O*</p>
-    <a href="https://github.com/AI4Africa/apcoKG">Go to project →</a>
+    <div style="display: flex; justify-content: space-between;"> <a href="https://github.com/AI4Africa/apcoKG">Go to project</a>
+    <a  href="https://scholar.google.com/citations?view_op=view_citation&hl=fr&user=VQQWyc0AAAAJ&citation_for_view=VQQWyc0AAAAJ:u5HHmVD_uO8C">Go to Paper </a> 
+    </div>
 
 </body>
 </html>
