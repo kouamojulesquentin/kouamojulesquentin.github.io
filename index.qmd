@@ -16,7 +16,6 @@ about:
   
 comments: false
 ---
-<meta name="google-site-verification" content="n9EcxQM0t4En5BgMsNqDFlAeL5ZyrdSicqS_l6ccWko" />
 
 ::: {.column-page}
 ## Bio
