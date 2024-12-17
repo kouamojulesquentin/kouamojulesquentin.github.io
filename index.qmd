@@ -1,6 +1,6 @@
 ---
 title: "Jules Quentin KOUAMO"
-image: "kjq.jpg"
+image: "kjq.JPG"
 about:
   template: trestles
   links:
