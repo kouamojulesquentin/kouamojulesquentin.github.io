@@ -1,1 +1,141 @@
-/* css styles */
+/* General Styles */
+body {
+    font-family: "Arial", sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+/* Title Section */
+.title {
+    text-align: center;
+    padding: 20px;
+    background-color: None; /* Professional blue tone */
+    color: #00457C;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+/* Profile Image */
+.column-page img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: 0 auto;
+    border: 5px solid #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Links Section */
+.column-page .links {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.column-page .links a {
+    text-decoration: none;
+    color: #00457C;
+    margin: 0 10px;
+    font-size: 1.1rem;
+    transition: color 0.3s ease-in-out;
+}
+
+.column-page .links a:hover {
+    color: #006bb6;
+}
+
+/* Sections */
+.column-page {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Section Titles with Background */
+.column-page h1
+
+ {
+    color: #fff;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #00457C; /* Blue background */
+    border-radius: 5px;
+}
+
+.column-page h1 {
+    font-size: 1.8rem;
+}
+
+.column-page h2 {
+    font-size: 1.5rem;
+}
+
+.column-page h3 {
+    font-size: 1.3rem;
+}
+
+.column-page p {
+    margin: 10px 0;
+    line-height: 1.8;
+}
+
+.column-page hr {
+    border: 0;
+    height: 1px;
+    background: #ddd;
+    margin: 20px 0;
+}
+
+/* Interests Section */
+#interests {
+    margin-top: 20px;
+}
+
+#interests ul {
+    list-style: none;
+    padding: 0;
+}
+
+#interests ul li {
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#interests ul li:last-child {
+    border-bottom: none;
+}
+
+#interests ul li span {
+    font-weight: bold;
+    color: #00457C;
+}
+
+/* Footer Section */
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #00457C;
+    color: #fff;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}

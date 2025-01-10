@@ -1,1 +1,1 @@
-Sitemap: kouamojulesquentin.github.io/sitemap.xml
+Sitemap: https://kouamojulesquentin.github.io/sitemap.xml

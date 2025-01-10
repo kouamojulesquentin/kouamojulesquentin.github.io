@@ -1,5 +1,5 @@
 ---
-title: "Jules Quentin KOUAMO"
+title: "Jules Quentin KOUAMO @kjq"
 image: "kjq.jpg"
 about:
   template: trestles
@@ -10,50 +10,141 @@ about:
     - text: GitHub
       icon: github
       url: "https://github.com/kouamojulesquentin"
-    - text: X
-      icon: twitter
-      url: "https://twitter.com/kouamojules"
-  
+    - text: ResearchGate
+      icon: researchgate
+      url: "https://www.researchgate.net/profile/Jules-Quentin-Kouamo"
+    - text: ORCID
+      icon: orcid
+      url: "https://orcid.org/0009-0008-1075-5577"
+    - text: Google Scholar
+      icon: google-scholar
+      url: "https://scholar.google.com/citations?user=VQQWyc0AAAAJ&hl=fr"
+    - text: HAL
+      icon: hal
+      url: "https://cv.archives-ouvertes.fr/jules-quentin-kouamo"
+    - text: Facebook
+      icon: facebook
+      url: "https://www.facebook.com/julesquentin.kouamo"
+    - text: Instagram
+      icon: instagram
+      url: "https://www.instagram.com/julesquentinkouamo/"
+    - text: YouTube
+      icon: youtube
+      url: "https://www.youtube.com/channel/UCL9TSFGThuo1pvZ0i2Zi63g"
+    - text: TikTok
+      icon: tiktok
+      url: "https://www.tiktok.com/@julesquentinkouamo"
+    - text: Snapchat
+      icon: snapchat
+      url: "https://www.snapchat.com/add/julesquentin"
+
+
+
 comments: false
+website:
+  navbar: []
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    smooth-scroll: true
+    css: styles.css
+    number-sections: false
 ---
 
-::: {.column-page}
-## Bio
 
-I’m a PhD Student in [TIMA lab](https://tima.univ-grenoble-alpes.fr/research/amfors/phd-students/jules-quentin-kouamo), working on Architectures and Software Methods for Mixed System Testing.
+::: {.column-page}
+# About Me  {#about_me}
+
+I'm a PhD Student in [TIMA lab](https://tima.univ-grenoble-alpes.fr/research/amfors/phd-students/jules-quentin-kouamo), working on Architectures and Software Methods for Mixed System Testing.
 <hr/>
-<p></p>
 
 ## Experience
 
-### Since November 2023:  *Phd Student* 
-[Grenoble Inp](https://www.grenoble-inp.fr/) - [TIMA](https://tima.univ-grenoble-alpes.fr/)
-<p>The thesis focuses on the integration of digital and analog testing methodologies for mixed-signal systems, which are becoming increasingly common in modern circuits. Currently, the testing methods for digital and analog components are separate and distinct, despite their close link in operation. The goal of the thesis is to develop a unified approach that bridges the technological and methodological gap between the digital and analog domains, allowing for the development of hybrid software and hardware solutions optimized for designers' needs.</p>
-[Supervisors:]{.underline} [Emmanuel SIMEU](https://tima.univ-grenoble-alpes.fr/research/rms/members/emmanuel-simeu) - [Michele PORTOLAN](https://tima.univ-grenoble-alpes.fr/research/amfors/members/michele-portolan)
+### Since November 2023: *Phd Student* 
+[CNRS](https://www.cnrs.fr/en) - [Grenoble Inp](https://www.grenoble-inp.fr/) - [TIMA](https://tima.univ-grenoble-alpes.fr/)
+<p>The thesis focuses on the integration of digital and analog testing methodologies for mixed-signal systems, which are becoming increasingly common in modern circuits. Currently, the testing methods for digital and analog components are separate and distinct, despite their close link in operation. The goal of the thesis is to develop a unified approach that bridges the technological and methodological gap between the digital and analog domains, allowing for the development of hybrid software and hardware solutions optimized for designers’ needs.</p>
+**Supervisors:** [**Emmanuel SIMEU**](https://tima.univ-grenoble-alpes.fr/research/rms/members/emmanuel-simeu) - [**Michele PORTOLAN**](https://tima.univ-grenoble-alpes.fr/research/amfors/members/michele-portolan)
 
-
-### 2022 - 2023:    *Assistant Datascience trainer* 
+### 2022 - 2023: *Assistant Datascience trainer* 
 [CASYTI](https://www.caysti.com/) - [CUSO](https://cusointernational.org/fr/)
-<p> The aim of the program [Techwomen Factory](https://techwomenfactory.caysti.com/) is to create a local digital industry that trains, empowers and employs young people and young women in particular in the areas of digital creativity for sustained, sustainable economic growth and decent jobs for all (SDG8, SDG5, SDG4 and SDG10).In the DataScience section, I taught the basics of data analysis, R programming and data analysis with R. </p>
+<p>The aim of the program [Techwomen Factory](https://techwomenfactory.caysti.com/) is to create a local digital industry that trains, empowers and employs young people and young women in particular in the areas of digital creativity for sustained, sustainable economic growth and decent jobs for all (SDG8, SDG5, SDG4 and SDG10).In the DataScience section, I taught the basics of data analysis, R programming and data analysis with R.</p>
 
-
-### 2022:   Consultant
- [EARTHWORM FUNDATION CAMEROON](https://www.earthworm.org/fr/pages/locations)
-
- <p> we worked on collecting and analysing data from the [SOSUCAM](https://www.linkedin.com/company/sosucam/?originalSubdomain=fr) company. The aim of the study was to monitor the corporate social responsibility (CSR) introduced at SOSUCAM in 2016.</p> 
+### 2022: Consultant 
+[EARTHWORM FUNDATION CAMEROON](https://www.earthworm.org/fr/pages/locations)
+<p>We worked on collecting and analyzing data from the [SOSUCAM](https://www.linkedin.com/company/sosucam/?originalSubdomain=fr) company. The aim of the study was to monitor the corporate social responsibility (CSR) introduced at SOSUCAM in 2016.</p>
 <hr/>
-## Education
 
- __2023__ : Graduated from Université de Yaoundé I - Cameroon
+## Education 
+
+__2023__: Graduated from Université de Yaoundé I - Cameroon
 <hr/>
-## Certificates 
-[**Tessent IJTAG - v22.16**](https://www.credly.com/badges/572599cd-30e1-47b5-8d56-8180d7137f19/linked_in_profile)
 
-[**Certified Lean Six Sigma Yellow Belt**](LEAN_SIX_SIGMA.pdf)
+# Projects {#projects}
 
-[**Environmental assessment of development policies and projects**](https://www.objectif2030.org/mooc/cert/rSZLSK/)
+### apcoKG
+**APCO (African Public Contract Ontology)** is an ontology that allows the description of public procurement terms, with a first use case in Cameroon.
 
-[**Semantic web - Web of data**](attestation_web_de_donnee.pdf)
+**Started on:** July 2022 (*Version 1.0*)
+
+  <a href="https://github.com/AI4Africa/apcoKG" style="margin-right: 60px;">Go to Project</a>
+  <a href="https://doi.org/10.1007/978-3-031-63110-8_9">Go to Paper</a>
+<hr/>
+
+# Activities {#activities}
+
+## Research Activities
+
+### Publications
+- **Kouamo, J., Kouokam, E., Atemezing, G.** (2024). *Building and Validating an Ontology for Public Procurement: The Case of Cameroon.* In: Melatagia Yonta, P., Barkaoui, K., Ndoundam, R., Yenke, O.B. (eds) Research in Computer Science. CRI 2023. *Communications in Computer and Information Science,* vol 2085. Springer, Cham.  
+  [➡️ DOI Link](https://doi.org/10.1007/978-3-031-63110-8_9)
+
+### Talks
+- **"Ontology in Public Procurement"** - *Data Science School,* [DSS23](https://ai4africa.github.io/DSS23/index.html). Dangbo, Benin, 2023.  
+- **"An Application of Generating Knowledge Graphs for Public Procurement in Cameroon"** - *Bi & Semantic Web Conference,* [BISW24](https://www.bisemweb.fr/home). Lomé, Togo, October 2024.  
+  [➡️ Slides](https://linkedvocabs.org/bisw24/slides/introEGovSemweb24.pdf)
+
+---
+
+## Teaching Activities
+**2024**:
+
+- *Teaching Assistant, TD - BE/TP - Project*, for the course *"Systèmes d'exploitation et Programmation Concurrente (SEPC)"* - 2nd year, Semester 7 (2AS7) at [Phelma](https://phelma.grenoble-inp.fr/fr)  
+- *Teaching Assistant, BE/TP*, for the course *"Programmation Structurée"* - 1st year, Semester 5 (1AS5) at [Phelma](https://phelma.grenoble-inp.fr/fr)
+ 
+**2023**:
+
+- *Teaching Assistant, TD/TP*, for the course *"Langage formel et compilation"* - Master 1 at  University of Yaounde 1 [UY1](https://facsciences.uy1.cm/)
+- *Teaching Assistant, TD/TP*, for the course *"Base de données"* - Level 3 at  University of Yaounde 1 [UY1](https://facsciences.uy1.cm/)
+
+**2022**:
+
+- *Teaching Assistant, Lecture/TD/TP*, for the course *"Fondements de l'analyse données"* -  at  Caysti [CASYTI](https://www.caysti.com/)
+- *Teaching Assistant, Lecture/TD/TP*, for the course *"Programmation R"* -  at  Caysti [CASYTI](https://www.caysti.com/)
+- *Teaching Assistant, Lecture/TD/TP*, for the course *"Analyse de données avec R"* -  at  Caysti [CASYTI](https://www.caysti.com/)
+
+---
+
+## Other Activities
+- **July 2024**: Chief of Logistics - IEEE Region 8 Student and Young Professional Congress, [R8SYP](https://grenoble-2024.ieeer8syp.org/about).
+
+# Certificates {#certificates}
+- [**Tessent Scan and ATPG - v22.16**](https://www.credly.com/badges/5be0df63-da11-42ae-ba94-9577d07c88d1/)
+- [**Tessent IJTAG - v22.16**](https://www.credly.com/badges/572599cd-30e1-47b5-8d56-8180d7137f19/)
+- [**Certified Lean Six Sigma Yellow Belt**](LEAN_SIX_SIGMA.pdf)
+- [**Environmental assessment of development policies and projects**](https://www.objectif2030.org/mooc/cert/rSZLSK/)
+- [**Semantic web - Web of data**](attestation_web_de_donnee.pdf)
+
+# Contact {#contact}
+
+You can reach me via email for:  
+- **Personal inquiries**: [kouamojulesquentin@gmail.com](mailto:kouamojulesquentin@gmail.com)  
+- **Professional matters**: [jules.quentin@univ-grenoble-alpes.fr](mailto:jules.quentin@univ-grenoble-alpes.fr)  
+
+**Address**:  
+46 Avenue Félix Viallet,  
+38000 Grenoble, France
+
 
 
 :::

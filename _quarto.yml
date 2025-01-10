@@ -6,22 +6,33 @@ project:
   output-dir: docs
 
 website:
-  site-url: kouamojulesquentin.github.io
-  description: Mixed IC Testing - Software Engeneering -  IA
-  title: "Jules Kouamo"
+  site-url: https://kouamojulesquentin.github.io
   open-graph: 
     locale: en_US
 
   navbar:
-    right:
+    left:
       - text: "Home"
         href: index.html
+      - text: "About me"
+        href: index.html#about_me
       - text: "Projects"
-        href: projects   
+        href: index.html#projects
+      - text: "Activities"
+        href: index.html#activities
+      - text: "Certificates"
+        href: index.html#certificates
+      - text: "Contact"
+        href: index.html#contact
+    right:
+      - text: "Courses"
+        href: courses/index.qmd
+
 format:
   html:
     theme: [sandstone, _variables.scss]
     css: styles.css
-
-
-
+    number-sections: true
+    toc: true
+    toc-depth: 2
+    smooth-scroll: true

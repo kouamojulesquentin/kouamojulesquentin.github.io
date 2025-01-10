@@ -1,0 +1,8 @@
+<html>
+<head><title>Courses</title>
+</head>
+<body>
+    <h1 style = "color: rgb(54, 69, 79);">Comming Soon</h1>
+
+</body>
+</html>
