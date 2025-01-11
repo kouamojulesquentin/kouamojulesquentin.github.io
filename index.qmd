@@ -1,6 +1,7 @@
 ---
 title: "Jules Quentin KOUAMO @kjq"
 image: "kjq.jpg"
+description: "Jules Quentin KOUAMO - PhD Student in TIMA lab, working on Architectures and Software Methods for Mixed System Testing."
 about:
   template: trestles
   links:
@@ -50,6 +51,7 @@ format:
     smooth-scroll: true
     css: styles.css
     number-sections: false
+    include-before: "analytics.html"
 ---
 
 
