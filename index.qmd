@@ -51,7 +51,7 @@ format:
     smooth-scroll: true
     css: styles.css
     number-sections: false
-    include-before: "analytics.html"
+    
 ---
 
 
