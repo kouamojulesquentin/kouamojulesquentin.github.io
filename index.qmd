@@ -1,5 +1,5 @@
 ---
-title: "Jules Quentin KOUAMO @kjq"
+title: "Jules Quentin KOUAMO"
 image: "kjq.jpg"
 description: "Jules Quentin KOUAMO - PhD Student in TIMA lab, working on Architectures and Software Methods for Mixed System Testing."
 about:
