@@ -1,5 +1,5 @@
 ---
-title: "Jules Quentin KOUAMO"
+title: "Jules Quentin KOUAMO @kjq"
 image: "kjq.jpg"
 description: "Jules Quentin KOUAMO - PhD Student in TIMA lab, working on Architectures and Software Methods for Mixed System Testing."
 about:
@@ -78,8 +78,8 @@ I'm a PhD Student in [TIMA lab](https://tima.univ-grenoble-alpes.fr/research/amf
 <hr/>
 
 ## Education 
-
-__2023__: Graduated from Université de Yaoundé I - Cameroon
+- Graduated from [National Avanced School of Engineering](https://www.polytechnique.cm/) - Cameroon
+- Graduated from [University of Yaounde 1](https://facsciences.uy1.cm/) - Cameroon
 <hr/>
 
 # Projects {#projects}
